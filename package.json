@@ -73,7 +73,7 @@
         "@types/node": "^20.11.30",
         "@types/yargs": "^17.0.33",
         "@typescript-eslint/eslint-plugin": "^8.4.0",
-        "@typescript-eslint/parser": "^8.4.0",
+        "@typescript-eslint/parser": "^8.21.0",
         "debug": "^4.3.6",
         "dotenv": "^16.4.5",
         "eslint": "^9.9.1",
